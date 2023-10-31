@@ -11,5 +11,4 @@ app.get("/", (request, response) => {
 
 module.exports = {
 	app,
-	express,
 };
